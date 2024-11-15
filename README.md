@@ -16,3 +16,5 @@ To be submitted for credit, all changes must be committed and pushed to this rep
 * (Question 3) Song lyrics retrieved and stored in separate files (0.5 pts/song): 2 pts
 * (Question 4) Polarity scores printed (with appropriate label containing song title, .25 pts/song): 1 pt
 * (Question 4) Questions answered thoughtfully: 2 pts
+
+## HTML conversion: python -m nbconvert --to html "C:\Users\19564\Documents\P2.Ruiz\Project4.Ruiz\Json.NLP.4\requests-json-nlp.ipynb"
