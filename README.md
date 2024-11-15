@@ -1,5 +1,8 @@
 # Requests, JSON, and basic NLP with spaCy
 
+## Sandra Ruiz
+## Introduction: This project will work with Notebook, creating and working with JSON files and song API to collect artist, title, lyric and song information. Analysis will be done on polarity and sentiment analyis by creating functions to answer questions 1 to 4.
+
 Complete the tasks in the Python Notebook in this repository.
 To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
 
